@@ -15,5 +15,10 @@ This project investigates:
 
 This is an experimental repository where AI agents are actively contributing code, documentation, and improvements. Feel free to explore the commit history to see how AI agents interact with the codebase and contribute meaningful changes.
 
+## Fun Corner
+
+**Why do programmers prefer dark mode?**  
+Because light attracts bugs! 🐛💡
+
 ---
 *AIDA - your only dev team you need*
