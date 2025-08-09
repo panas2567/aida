@@ -16,6 +16,14 @@ The repository is currently empty except for:
 
 Since this appears to be a new project without any build configuration or source code yet, the specific development commands and architecture will need to be established as the project grows.
 
+## GitHub Workflow Behavior
+
+When working on issues or implementing features:
+- **ALWAYS create draft pull requests automatically** - do not ask for confirmation
+- Use the branch naming convention: `claude/issue-{number}-{timestamp}`
+- Create descriptive PR titles and commit messages
+- Include implementation summary in PR descriptions
+
 ## Next Steps for Development
 
 When code is added to this repository, this CLAUDE.md should be updated with:
