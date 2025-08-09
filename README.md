@@ -15,5 +15,10 @@ This project investigates:
 
 This is an experimental repository where AI agents are actively contributing code, documentation, and improvements. Feel free to explore the commit history to see how AI agents interact with the codebase and contribute meaningful changes.
 
+## Fun Corner
+
+**Why don't some developers use git?**  
+Because they prefer to live dangerously - one crash away from losing everything! 💾😱
+
 ---
 *AIDA - your only dev team you need*
